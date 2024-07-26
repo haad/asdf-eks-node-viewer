@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-asdf plugin-add eks-node-viewer https://github.com/awslabs/eks-node-viewer
+asdf plugin-add eks-node-viewer https://github.com/haad/asdf-eks-node-viewer
 ```
 
 ## Use
